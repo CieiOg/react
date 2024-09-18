@@ -1,0 +1,13 @@
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    background: rgb(59, 9, 59);
+    height: 3rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: purple;
+}
